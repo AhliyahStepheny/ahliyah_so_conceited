@@ -1,0 +1,17 @@
+body {
+	background: grey
+}
+
+h1 {
+	color: red;
+	text-align: center;
+}
+
+.first {
+	margin-left: 15px;
+}
+img {
+	margin-left: 37%;
+	margin-top: 10%;
+	border-radius: 15%
+}
